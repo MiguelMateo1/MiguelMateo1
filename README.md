@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Miguel Mateo</h1>
+<h1 align="center">Hello, I'm Miguel</h1>
 <h3 align="center">A passionate Full-stack developer</h3>
 
 - 🔭 I’m currently working on **multiple projects**
