@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on **multiple projects**
 
-- 👨‍💻 All of my projects are available at [ADD LIKN](ADD LIKN)
+- 👨‍💻 All of my projects are available at
+  https://miguel-mateo.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
