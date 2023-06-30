@@ -1,7 +1,6 @@
 <h1 align="center">Miguel Mateo</h1>
-<h3 align="center">A passionate Full-stack developer</h3>
 
-- 🔭 I’m currently working on **multiple projects**
+- 🔭 I’m currently working on **multiple projects** React.js / PHP Laravel
 
 - 👨‍💻 All of my projects are available at
   https://miguel-mateo.netlify.app/
