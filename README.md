@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **multiple projects** React.js / PHP Laravel
 
 - 👨‍💻 All of my projects are available at
-  https://miguel-mateo.netlify.app/
+  https://miguel-mateo.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
