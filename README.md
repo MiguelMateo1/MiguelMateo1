@@ -1,7 +1,7 @@
 <h1 align="center">Miguel Mateo</h1>
 <h3 align="center">Full-stack developer</h3>
 
-- 🔭 I’m currently working on **multiple projects** React.js / PHP Laravel
+- 🔭 I’m currently working on projects React.js projects and UI/UX designs
 
 - 👨‍💻 All of my projects are available at
   https://miguel-mateo.com
